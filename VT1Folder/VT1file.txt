@@ -9,5 +9,5 @@ VT Change2.1
 Vt change on master on remote
 
 
-VT B2 Change Local
+VT B2 Change Local 1.0
 VTB2 Change Remote
