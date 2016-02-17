@@ -10,4 +10,4 @@ Vt change on master on remote
 
 
 VT B2 Change Local
-VTB2 Change Remote
+VTB2 Change Remote 1.0
