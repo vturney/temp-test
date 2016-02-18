@@ -9,7 +9,7 @@ VT Change2.1
 Vt change on master on remote
 
 
-VT B2 Change Local 1.7
+VT B2 Change Local 1.9
 
 
 
@@ -18,5 +18,5 @@ VT B2 Change Local 1.7
 
 
 
-VTB2 Change Remote 1.3
+VTB2 Change Remote 1.9
 
